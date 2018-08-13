@@ -1,1 +1,2 @@
-ÀûÓÃ¿ªÔ´×é¼şautolauch£¨https://github.com/4ver/node-auto-launch£©¡£Ô­Àí£º¶ÔWindowsÆäÊÇĞ´Èë×¢²á±í\HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run£¬¶ÔMacOSÊÇÖ´ĞĞAppleScript¡£
+åˆ©ç”¨å¼€æºç»„ä»¶autolauchï¼ˆhttps://github.com/4ver/node-auto-launchï¼‰ã€‚
+åŸç†ï¼šå¯¹Windowså…¶æ˜¯å†™å…¥æ³¨å†Œè¡¨\HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Runï¼Œå¯¹MacOSæ˜¯æ‰§è¡ŒAppleScriptã€‚
