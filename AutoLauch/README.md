@@ -1,0 +1,1 @@
+利用开源组件autolauch（https://github.com/4ver/node-auto-launch）。
